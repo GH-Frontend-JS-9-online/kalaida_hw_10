@@ -1,0 +1,27 @@
+{
+  "name": "kalaida_hw_10",
+  "version": "1.0.0",
+  "description": "kalaida_hw_10 - not ready\r -",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GH-Frontend-JS-9-online/kalaida_hw_10.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GH-Frontend-JS-9-online/kalaida_hw_10/issues"
+  },
+  "homepage": "https://github.com/GH-Frontend-JS-9-online/kalaida_hw_10#readme",
+  "devDependencies": {
+    "axios": "^0.19.0",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2"
+  },
+  "dependencies": {
+    "browser-sync": "^2.26.7"
+  }
+}
