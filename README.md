@@ -1,2 +1,2 @@
-kalaida_hw_10 - not ready
+kalaida_hw_10 - ready
 -
